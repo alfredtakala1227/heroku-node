@@ -1,0 +1,32 @@
+{
+  "name": "heroku-node",
+  "version": "0.0.0",
+  "description": "This example app is so cool.",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alfredtakala1227/heroku-node.git"
+  },
+  "keywords": [
+    "example",
+    "heroku"
+  ],
+  "author": "Alfred",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/alfredtakala1227/heroku-node/issues"
+  },
+  "homepage": "https://github.com/alfredtakala1227/heroku-node",
+  "dependencies": {
+    "logfmt": "~0.17.0",
+    "express": "~3.4.6"
+  }
+  {
+	"engines": {
+	  "node": "0.10.x"
+	}
+  }
+}
